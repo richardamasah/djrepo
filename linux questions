@@ -1,0 +1,52 @@
+Here are some basic Linux Bash questions to test your skills:  
+
+### Navigation & File System  
+1. How do you list all files (including hidden ones) in a directory?  
+2. What command moves you to the root directory?  
+3. How do you create a new directory named "test_folder"?  
+4. How do you remove an empty directory?  
+5. What is the difference between `rm -r` and `rm -rf`?  
+
+### File Operations  
+6. How do you create an empty file called `test.txt`?  
+7. How do you display the contents of a file?  
+8. How do you find the number of lines, words, and characters in a file?  
+9. What command copies a file from one location to another?  
+10. How do you rename a file in Linux?  
+
+### Permissions & Ownership  
+11. How do you check the permissions of a file?  
+12. How do you give read, write, and execute permissions to the owner of a file?  
+13. How do you change ownership of a file to a different user?  
+14. What does `chmod 755` mean?  
+15. How do you make a script executable?  
+
+### Processes & System Information  
+16. How do you see the currently running processes?  
+17. What command stops a process by its process ID (PID)?  
+18. How do you check system memory usage?  
+19. How do you find your current shell type?  
+20. How do you check disk usage of the `/home` directory?  
+
+### Networking  
+21. How do you find your system’s IP address?  
+22. What command shows open network ports?  
+23. How do you test connectivity to a website from the terminal?  
+24. How do you download a file from the internet using the terminal?  
+25. How do you check active network connections?  
+
+### Scripting & Automation  
+26. What does `#!/bin/bash` mean at the start of a script?  
+27. How do you define and use a variable in Bash?  
+28. How do you loop through a list of items in Bash?  
+29. How do you write an `if` condition in Bash?  
+30. How do you schedule a script to run every day at midnight using cron?  
+
+### Bonus (If You Want to Level Up 🔥)  
+31. How do you search for a specific word inside multiple files in a directory?  
+32. How do you replace all occurrences of "old" with "new" in a file?  
+33. What command shows the last 10 lines of a file in real time as it updates?  
+34. How do you find the largest files in a directory?  
+35. How do you combine multiple commands in a single line?  
+
+Tackle these and prove to yourself that you're leveling up in Linux! 💪🔥
